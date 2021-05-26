@@ -1,0 +1,8 @@
+﻿@charset "utf-8";	
+/* 載入 */
+@import url("reset.css");
+@import url("style.css");
+@import url("screen.css");
+@import url("animate.css");
+@import url("jquery.fancybox.css");
+/*@import url("normalize.css");*/
